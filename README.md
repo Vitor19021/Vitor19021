@@ -38,7 +38,7 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/vitor-hugo-prado-ribeiro-81b8432a5)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vitor-hugo-prado-ribeiro-81b8432a5/)
 
 
 
