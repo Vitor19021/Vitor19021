@@ -38,9 +38,9 @@
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-gabriel-c-j%C3%BAnior-343a65222/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/otaimer_dev/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@OTAIMER_DEV)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/vitor-hugo-prado-ribeiro-81b8432a5)
+
+
 
 ### 🛠️ Skills
 
