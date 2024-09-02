@@ -1,7 +1,7 @@
 ## Hi there, I'm Vitor19021 👋
 
 - 🔭 I’m currently working on Back-end and IOS Desenvolveper
-- 🌱 I’m currently learning M.E.R.N stack
+- 🌱 I’m currently learning IOS 
 - 👯 I’m looking to collaborate on IOS projects and full-stack projects. 
 - 😄 Pronouns: he/him
 
